@@ -6,6 +6,8 @@
 
 > A coder who wants to raise a Shiba Inu.
 
+As a lifelong learner, I work for my inspiration.
+
 Currently I am focusing on :
 
 <a href="https://github.com/hexojs/hexo">
