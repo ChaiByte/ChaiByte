@@ -1,3 +1,4 @@
+<div>
 <a href="#">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAIMIND&show_icons=true&hide_border=false&theme=tokyonight">
 </a>
@@ -6,7 +7,10 @@
 
 > A developer who wants to raise a Shiba Inu.
 
-As a lifelong learner, I work for my inspiration.
+
+</div>
+
+----
 
 Currently I am focusing on :
 
