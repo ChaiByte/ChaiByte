@@ -21,3 +21,5 @@ Currently I am focusing on :
 <a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
 
 ----
+
+P.S: "Chai" is the pronunciation of Chinese word "柴".
