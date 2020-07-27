@@ -1,14 +1,14 @@
-<div>
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAIMIND&show_icons=true&hide_border=false&theme=tokyonight">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAIMIND&show_icons=true&hide_border=true">
 </a>
 
 # Just call me "Chai"
 
-> A developer who wants to raise a Shiba Inu.
+A developer who wants to raise a Shiba Inu.
 
-
-</div>
+- Likes: Code, Dog, Book, Music, Meditation
+- Dislikes: Social, Rule, School, Hypocrite
+- Let's keep lifelong learning.
 
 ----
 
