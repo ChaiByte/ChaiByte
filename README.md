@@ -1,10 +1,10 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAIMIND&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAIMIND&show_icons=true&hide_border=false&icon_color=586069&title_color=a0a9af">
 </a>
 
 # Just call me "Chai"
 
-> A coder who wants to raise a Shiba Inu.
+> A developer who wants to raise a Shiba Inu.
 
 As a lifelong learner, I work for my inspiration.
 
