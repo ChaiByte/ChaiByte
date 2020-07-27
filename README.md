@@ -10,11 +10,11 @@ As a lifelong learner, I work for my inspiration.
 
 Currently I am focusing on :
 
-<a href="https://github.com/hexojs/hexo">
+<a href="https://github.com/MegEngine/MegEngine">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MegEngine&repo=MegEngine&show_owner=true" />
 </a>
 
-<a href="https://github.com/hexojs/hexo">
+<a href="https://github.com/MegEngine/Docs">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MegEngine&repo=Docs&show_owner=true" />
 </a>
 
