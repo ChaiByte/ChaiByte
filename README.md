@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=CHAIMIND&show_icons=true&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MegChai&show_icons=true&hide_border=true">
 </a>
 
 # Just call me "Chai"
