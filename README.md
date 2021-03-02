@@ -18,8 +18,8 @@ Currently I am focusing on :
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MegEngine&repo=MegEngine&show_owner=true" />
 </a>
 
-<a href="https://github.com/MegEngine/Tutorials">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MegEngine&repo=Tutorials&show_owner=true" />
+<a href="https://github.com/MegEngine/Documentation">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MegEngine&repo=Documentation&show_owner=true" />
 </a>
 
 <a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
