@@ -12,18 +12,4 @@ A developer who wants to raise a Shiba Inu.
 
 ----
 
-Currently I am focusing on :
-
-<a href="https://github.com/MegEngine/MegEngine">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MegEngine&repo=MegEngine&show_owner=true" />
-</a>
-
-<a href="https://github.com/MegEngine/Documentation">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=MegEngine&repo=Documentation&show_owner=true" />
-</a>
-
-<a href="#"><img align="center" src="https://via.placeholder.com/600x1.png/fff/fff"></a>
-
-----
-
 P.S: "Chai" is the pronunciation of Chinese word "柴".
