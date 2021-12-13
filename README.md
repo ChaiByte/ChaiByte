@@ -6,7 +6,7 @@
 
 A developer who wants to raise a Shiba Inu.
 
-- :relaxed: Likes: Code, Dog, Book, Music, Meditation
+- :relaxed: Likes: Dog, Book, Music, Meditation
 - :worried: Dislikes: Social, Rule, School, Hypocrite
 - :star: Personality: [INTP-T](https://www.16personalities.com/intp-personality)
 
